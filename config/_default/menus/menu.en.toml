@@ -1,0 +1,11 @@
+#  menu items
+
+[[main]]
+  name = "Docs"
+  weight = 2
+  url = "docs/rmodel"
+
+[[main]]
+  name = "Example"
+  weight = 3
+  url = "docs/rmodel/examples"
