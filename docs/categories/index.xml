@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on RModel Docs</title>
+    <link>https://Rovanta.github.io/rmodel-docs/categories/</link>
+    <description>Recent content in Categories on RModel Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Feb 2025 19:42:55 +0800</lastBuildDate>
+    <atom:link href="https://Rovanta.github.io/rmodel-docs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://Rovanta.github.io/rmodel-docs/categories/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://Rovanta.github.io/rmodel-docs/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>https://Rovanta.github.io/rmodel-docs/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://Rovanta.github.io/rmodel-docs/categories/golang/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
